@@ -6,5 +6,7 @@
 ## class - 5 (Datatypes and ECMA standards | chai aur #javascript)
 ### VS Code Extension
 <img width="1573" height="844" alt="image" src="https://github.com/user-attachments/assets/990eefd8-aa0a-4154-85c0-392a0b1ec0bb" />
+
 ### JS Documentation (Official website)
 <img width="1811" height="800" alt="image" src="https://github.com/user-attachments/assets/a82b66cf-45d6-4591-91e7-c2ae4c9b2527" />
+
