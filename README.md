@@ -24,6 +24,12 @@ Example:
 
 ⚡ In short: Yes, Symbol is a primitive data type in JS and is useful for creating unique identifiers.
 
+<img width="709" height="372" alt="image" src="https://github.com/user-attachments/assets/fb3695e7-945c-4284-8f39-510b35b04ea7" />
+
+<img width="782" height="464" alt="image" src="https://github.com/user-attachments/assets/e2d9ca70-84e6-4d38-8e65-f663fcd2515b" />
+
+
+
 ### VS Code Extension
 <img width="1573" height="844" alt="image" src="https://github.com/user-attachments/assets/990eefd8-aa0a-4154-85c0-392a0b1ec0bb" />
 
