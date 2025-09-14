@@ -28,6 +28,8 @@ Example:
 
 <img width="782" height="464" alt="image" src="https://github.com/user-attachments/assets/e2d9ca70-84e6-4d38-8e65-f663fcd2515b" />
 
+### typeof
+<img width="793" height="250" alt="image" src="https://github.com/user-attachments/assets/550bc298-8241-4e93-b6ad-6f770f649a6b" />
 
 
 ### VS Code Extension
@@ -36,3 +38,5 @@ Example:
 ### JS Documentation (Official website)
 <img width="1811" height="800" alt="image" src="https://github.com/user-attachments/assets/a82b66cf-45d6-4591-91e7-c2ae4c9b2527" />
 
+## Important Notes
+<img width="776" height="387" alt="image" src="https://github.com/user-attachments/assets/563fa9ea-5786-4a76-bc0e-50669f96d44f" />
