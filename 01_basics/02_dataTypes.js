@@ -14,7 +14,7 @@
 //Object
 
 console.log(typeof value); //output:undefined
-//let value = 10; it is an error
+//let value = 10; it is an error with 'let'
 var value = 10;
 console.log(typeof value);//output:number
 console.log(typeof null);//output:object
