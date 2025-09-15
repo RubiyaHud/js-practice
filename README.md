@@ -47,5 +47,8 @@ Example:
 
 ---
 
+## class - 6 (Datatype conversion confusion | chai aur #javascript)
+
+---
 ## Exceptions / Important Notes 
 <img width="776" height="387" alt="image" src="https://github.com/user-attachments/assets/563fa9ea-5786-4a76-bc0e-50669f96d44f" />
