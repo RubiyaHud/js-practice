@@ -48,8 +48,21 @@ Example:
 ---
 
 ## class - 6 (Datatype conversion confusion | chai aur #javascript)
-<img width="661" height="723" alt="image" src="https://github.com/user-attachments/assets/9e0cfb65-845f-477a-84ec-52c07b14c6ce" />
-<img width="649" height="465" alt="image" src="https://github.com/user-attachments/assets/4d16abfc-2fd4-43f9-bc44-91b33c8fe6f7" />
+```
+  let score = 33
+  //let score = "33ab"
+  //let score = null
+  //let score = undefined
+  //let score = true
+  //let score = false
+  console.log(typeof score);
+  
+  
+  let valueInNumber = Number(score)
+  console.log(typeof valueInNumber);
+  console.log(valueInNumber);
+```
+<img width="999" height="610" alt="image" src="https://github.com/user-attachments/assets/bd77e265-e97e-48ed-b463-7eea83202bed" />
 
 ### A clear table showing how different `score` values behave when converted to a number in JavaScript.
 ---
