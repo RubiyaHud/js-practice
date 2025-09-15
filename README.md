@@ -49,6 +49,7 @@ Example:
 
 ## class - 6 (Datatype conversion confusion | chai aur #javascript)
 <img width="661" height="723" alt="image" src="https://github.com/user-attachments/assets/9e0cfb65-845f-477a-84ec-52c07b14c6ce" />
+<img width="649" height="465" alt="image" src="https://github.com/user-attachments/assets/4d16abfc-2fd4-43f9-bc44-91b33c8fe6f7" />
 
 ---
 ## Exceptions / Important Notes 
