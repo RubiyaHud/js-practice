@@ -3,6 +3,8 @@
 ## class - 4 (Let, const and var ki kahani | chai aur #javascript)
 <img width="732" height="601" alt="image" src="https://github.com/user-attachments/assets/402fdb31-4324-4180-a3d4-1a6ffa44a156" />
 
+---
+
 ## class - 5 (Datatypes and ECMA standards | chai aur #javascript)
 <img width="492" height="382" alt="image" src="https://github.com/user-attachments/assets/f0b48181-2169-48fc-aea1-2a305f05acf9" />
 
@@ -28,15 +30,22 @@ Example:
 
 <img width="782" height="464" alt="image" src="https://github.com/user-attachments/assets/e2d9ca70-84e6-4d38-8e65-f663fcd2515b" />
 
+---
+
 ### typeof
 <img width="793" height="250" alt="image" src="https://github.com/user-attachments/assets/550bc298-8241-4e93-b6ad-6f770f649a6b" />
 
+---
 
 ### VS Code Extension
 <img width="1573" height="844" alt="image" src="https://github.com/user-attachments/assets/990eefd8-aa0a-4154-85c0-392a0b1ec0bb" />
 
+---
+
 ### JS Documentation (Official website)
 <img width="1811" height="800" alt="image" src="https://github.com/user-attachments/assets/a82b66cf-45d6-4591-91e7-c2ae4c9b2527" />
 
-## Important Notes
+---
+
+## Exceptions / Important Notes 
 <img width="776" height="387" alt="image" src="https://github.com/user-attachments/assets/563fa9ea-5786-4a76-bc0e-50669f96d44f" />
