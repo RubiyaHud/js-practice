@@ -32,21 +32,6 @@ Example:
 
 ---
 
-### typeof
-<img width="793" height="250" alt="image" src="https://github.com/user-attachments/assets/550bc298-8241-4e93-b6ad-6f770f649a6b" />
-
----
-
-### VS Code Extension
-<img width="1573" height="844" alt="image" src="https://github.com/user-attachments/assets/990eefd8-aa0a-4154-85c0-392a0b1ec0bb" />
-
----
-
-### JS Documentation (Official website)
-<img width="1811" height="800" alt="image" src="https://github.com/user-attachments/assets/a82b66cf-45d6-4591-91e7-c2ae4c9b2527" />
-
----
-
 ## class - 6 (Datatype conversion confusion | chai aur #javascript)
 ```
   let score = 33
@@ -64,7 +49,38 @@ Example:
 ```
 <img width="999" height="610" alt="image" src="https://github.com/user-attachments/assets/bd77e265-e97e-48ed-b463-7eea83202bed" />
 
-### A clear table showing how different `score` values behave when converted to a number in JavaScript.
+```
+  //let isLoggedIn = 1
+  //let isLoggedIn = 0
+  //let isLoggedIn = ""
+  //let isLoggedIn = "abc"
+  //let isLoggedIn = null
+  //let isLoggedIn;
+  let isLoggedIn = NaN
+  console.log(typeof isLoggedIn);
+  
+  let booleanIsLoggedIn = Boolean(isLoggedIn)
+  console.log(booleanIsLoggedIn);
+  console.log(typeof booleanIsLoggedIn);
+
+```
+<img width="996" height="587" alt="image" src="https://github.com/user-attachments/assets/586053c8-62ff-4fd8-903f-b1621ac8a26c" />
+
 ---
 ## Exceptions / Important Notes 
 <img width="776" height="387" alt="image" src="https://github.com/user-attachments/assets/563fa9ea-5786-4a76-bc0e-50669f96d44f" />
+
+### typeof
+<img width="793" height="250" alt="image" src="https://github.com/user-attachments/assets/550bc298-8241-4e93-b6ad-6f770f649a6b" />
+
+---
+
+### VS Code Extension
+<img width="1573" height="844" alt="image" src="https://github.com/user-attachments/assets/990eefd8-aa0a-4154-85c0-392a0b1ec0bb" />
+
+---
+
+### JS Documentation (Official website)
+<img width="1811" height="800" alt="image" src="https://github.com/user-attachments/assets/a82b66cf-45d6-4591-91e7-c2ae4c9b2527" />
+
+---
