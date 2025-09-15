@@ -66,6 +66,20 @@ Example:
 ```
 <img width="996" height="587" alt="image" src="https://github.com/user-attachments/assets/586053c8-62ff-4fd8-903f-b1621ac8a26c" />
 
+```
+  //let someNumber = 33
+  //let someNumber = NaN
+  //let someNumber = null
+  let someNumber;
+  console.log(typeof someNumber);
+  
+  let stringNumber = String(someNumber)
+  console.log(stringNumber);
+  console.log(typeof stringNumber);
+
+```
+<img width="988" height="445" alt="image" src="https://github.com/user-attachments/assets/4735e657-73b1-45ce-a9ba-4c9c31d81101" />
+
 ---
 ## Exceptions / Important Notes 
 <img width="776" height="387" alt="image" src="https://github.com/user-attachments/assets/563fa9ea-5786-4a76-bc0e-50669f96d44f" />
